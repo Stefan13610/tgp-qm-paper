@@ -1,11 +1,11 @@
 # Theory of Generated Space — Emergent quantum mechanics
 
-[![DOI](https://img.shields.io/badge/DOI-pending-lightgrey.svg)](#)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19712596.svg)](https://doi.org/10.5281/zenodo.19712596)
 
-This repository will accompany the preprint:
+This repository accompanies the preprint:
 
 > **Emergent quantum mechanics from the TGP substrate: measurement, Born rule, superposition, entanglement, spin–statistics, and decoherence from a single soliton ODE**
-> M. Serafin, 2026. (Zenodo DOI to be minted on release)
+> M. Serafin, 2026. Zenodo DOI [10.5281/zenodo.19712596](https://doi.org/10.5281/zenodo.19712596).
 
 It is the quantum-mechanics companion to the TGP core paper:
 
@@ -139,8 +139,6 @@ paper-aligned snapshot for the emergent-QM sector only.
 
 ## Citation
 
-Citation keys will be finalised on release. Provisional BibTeX:
-
 ```bibtex
 @misc{Serafin2026TGPQM,
   author       = {Serafin, Mateusz},
@@ -150,7 +148,8 @@ Citation keys will be finalised on release. Provisional BibTeX:
                    soliton ODE}},
   year         = {2026},
   publisher    = {Zenodo},
-  note         = {DOI to be minted on release}
+  doi          = {10.5281/zenodo.19712596},
+  url          = {https://doi.org/10.5281/zenodo.19712596}
 }
 
 @misc{Serafin2026TGPCore,
