@@ -1,0 +1,49 @@
+{
+  "title": "Theory of Generated Space — Emergent quantum mechanics from the TGP substrate: measurement, Born rule, superposition, entanglement, spin-statistics, and decoherence from a single soliton ODE",
+  "description": "<p>Preprint and supporting numerical material for the TGP emergent-quantum-mechanics paper, a companion to the TGP core paper (Zenodo DOI: 10.5281/zenodo.19670324). Starting from the substrate-field framework fixed by the core paper, we show that quantum mechanics is not fundamental but emergent: measurement, the Born rule, superposition, Bell-type entanglement, spin 1/2, spin-statistics, and decoherence all follow from the self-referential dynamics of the substrate field &Phi;. Key structural results: (i) &hbar; = &pi;&middot;&chi;&middot;A_tail derived from the scaling symmetry of the soliton ODE, with A(&alpha;)=A_0/&radic;&alpha; fitted exponent &minus;0.49999 to R&sup2;=0.9999999955; (ii) &hbar;(&Phi;)=&hbar;_0&radic;(&Phi;_0/&Phi;) a position-dependent Planck constant, testable shift &Delta;&hbar;/&hbar;&asymp;&minus;3.5&times;10&#x207B;&sup1;&#x2070; near Earth; (iii) &Delta;x&middot;&Delta;p &ge; &hbar; from three independent derivations (oscillation period + Nyquist, Fisher information + Cram&eacute;r-Rao, energy minimisation); (iv) Born rule from measurement asymmetry &mdash; detector back-reaction &lt;&Delta;A_det&sup2;&gt; ~ A_part^{2.028} with R&sup2;=0.99995, CV=2.3%; (v) CHSH = 2&radic;2 exactly (Tsirelson bound) from a substrate phasor on the topological singlet &pi;_3(S&sup3;)=&#x2124;, with E(a,b)=&minus;cos(a&minus;b) to 3.3&times;10&#x207B;&sup1;&#x2076;, no-signaling verified; (vi) spin 1/2 from hedgehog-vielbein winding B=1 universal across g_0&isin;[0.3,0.95], analytic B=2&int;_0^1 sin&sup2;(&pi;u)du=1; (vii) Fermi-Dirac vs Bose-Einstein statistics from exchange phase (&minus;1)^B, anyons in 2D from &pi;_1(config)=&#x2124;; (viii) decoherence from three converging channels (&hbar;(&Phi;) damping, non-linear mode mixing, environmental back-reaction) plus quantum Darwinism as geometric tail imprint on the substrate. The repository contains the paper source, compiled PDF, and the seven numerical folders that are directly cited: qm_foundations/, qm_measurement/, qm_superposition/, qm_entanglement/, qm_spin/, qm_statistics/, qm_decoherence/.</p>",
+  "creators": [
+    {
+      "name": "Serafin, Mateusz",
+      "affiliation": "Independent researcher"
+    }
+  ],
+  "keywords": [
+    "quantum mechanics",
+    "emergent phenomena",
+    "soliton",
+    "Born rule",
+    "uncertainty principle",
+    "Bell inequality",
+    "CHSH",
+    "Tsirelson bound",
+    "spin-statistics",
+    "decoherence",
+    "quantum Darwinism",
+    "generated space",
+    "TGP",
+    "scalar field",
+    "theoretical physics"
+  ],
+  "license": "CC-BY-4.0",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "access_right": "open",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.19670324",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-preprint"
+    },
+    {
+      "identifier": "https://github.com/Stefan13610/tgp-core-paper",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "https://github.com/Stefan13610/TGP",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    }
+  ]
+}
