@@ -137,6 +137,42 @@ This repository is a deliberately narrow slice:
 That is where development happens. This repository is the stable,
 paper-aligned snapshot for the emergent-QM sector only.
 
+## Audit trail (post-Phase 3)
+
+The deposit at DOI [10.5281/zenodo.19712596](https://doi.org/10.5281/zenodo.19712596)
+is the immutable timestamped record. Subsequent in-repo audit material:
+
+- [`research/POST_PHASE3_NOTE_2026-04-28.md`](research/POST_PHASE3_NOTE_2026-04-28.md)
+  — 2026-04-28 deep-scan audit. **Verdict: clean — no impact.** TGP-QM is
+  structurally orthogonal to the Phase 1 / Phase 2 / Phase 3 cycles
+  (covariant 4D / EFT closure / UV-completion structural audit). Born
+  rule, decoherence, statistics, measurement, spin, entanglement,
+  superposition anchors are unaffected.
+
+## Falsification entry points
+
+The full prediction registry — falsification target, experimental horizon,
+DOI of the flask that pre-registered each prediction — lives in the workshop
+master at
+[`TGP_v1/PREDICTIONS_REGISTRY.md`](https://github.com/Stefan13610/TGP/blob/main/TGP_v1/PREDICTIONS_REGISTRY.md).
+
+Quick pointer to the predictions sourced from this paper (Sector 9 — QM foundations):
+
+- **QM1**: Born rule $P\propto|\psi|^2$ as **emergent** from substrate
+  measurement asymmetry (n=2 forced by detector back-reaction
+  $\langle\Delta A_\text{det}^2\rangle\sim A_\text{part}^{2.028}$,
+  $R^2 = 0.99995$). Falsified by alternative formalism with n≠2
+  normalization that reproduces all QM observables.
+- **QM2**: Decoherence via $\hbar(\Phi)$ + non-linear mode mixing +
+  back-reaction. **Direct test**: altitude-dependent $\Delta\hbar/\hbar
+  \approx -3.5\cdot 10^{-10}$ near Earth (atom interferometry).
+- **CHSH = $2\sqrt{2}$ (Tsirelson)** from substrate phasor on
+  $\pi_3(S^3) = \mathbb{Z}$, $\max\text{diff} = 3.3\cdot 10^{-16}$.
+- **Spin-½ from hedgehog winding $B = 1$** universal across
+  $g_0\in[0.3,0.95]$; $B = 2\int_0^1\sin^2(\pi u)\,du = 1$ analytically.
+- **Spin–statistics**: exchange phase $(-1)^B$; Fermi–Dirac and
+  Bose–Einstein derived; anyons in 2D from $\pi_1(\text{config})=\mathbb{Z}$.
+
 ## Citation
 
 ```bibtex

@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+type: software
+title: >-
+  Emergent quantum mechanics from the TGP substrate: measurement, Born rule,
+  superposition, entanglement, spin-statistics, and decoherence from a single
+  soliton ODE
+abstract: >-
+  Preprint and supporting numerical material for the TGP emergent-QM paper,
+  companion to the TGP core paper. From the same substrate soliton ODE that
+  fixes the TGP core, quantum mechanics is shown to be emergent: the Born rule
+  P ~ |psi|^2 from measurement back-reaction asymmetry, superposition as the
+  linear limit of the substrate ODE, CHSH = 2*sqrt(2) (Tsirelson) from a
+  substrate phasor on pi_3(S^3), spin-1/2 from hedgehog winding B = 1,
+  spin-statistics from exchange phase (-1)^B, and decoherence from
+  hbar(Phi) damping + non-linear mode mixing + back-reaction.
+  Predicted altitude shift Delta-hbar/hbar ~ -3.5e-10 near Earth provides
+  a direct atom-interferometry falsification target.
+authors:
+  - family-names: Serafin
+    given-names: Mateusz
+    affiliation: Independent researcher
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.19712596
+    description: Zenodo DOI of this work
+  - type: doi
+    value: 10.5281/zenodo.19670324
+    description: TGP core paper (prerequisite)
+license: CC-BY-4.0
+keywords:
+  - quantum mechanics foundations
+  - Born rule
+  - measurement
+  - Bell-CHSH
+  - spin-statistics
+  - decoherence
+  - emergent quantum mechanics
+  - generated space
+  - TGP
+  - scalar field
+  - soliton
+url: "https://doi.org/10.5281/zenodo.19712596"
+repository-code: "https://github.com/Stefan13610/tgp-qm-paper"
+references:
+  - type: article
+    title: "Theory of Generated Space: A minimal core of axioms, substrate, and effective field"
+    doi: 10.5281/zenodo.19670324
+    authors:
+      - family-names: Serafin
+        given-names: Mateusz
+  - type: software
+    title: "TGP — full research workshop"
+    url: "https://github.com/Stefan13610/TGP"
+    authors:
+      - family-names: Serafin
+        given-names: Mateusz
